@@ -1,4 +1,4 @@
-- 👋 Hello adventure, I’m Oberon, an audio programmer and designer.
+- 👋 Hello adventurer! I’m Oberon, an audio programmer and designer.
 - 🌱 Currently learning DSP, C++, game engine/game audio specific sound design and engineering mathematics (both applied to audio and uping my skills).
 - 👀 Interested in audio programming, game audio, sound design, time-stretching devices, ambiences, field recording and anything in between.
 - 💞️ I’m looking to collaborate on any game audio or sound design projects.
