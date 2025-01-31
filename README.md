@@ -1,4 +1,3 @@
-Sonic quester within the digital realms.
 Interests:
 - Game Audio.
 - Game Technology.
